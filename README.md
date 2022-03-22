@@ -2,7 +2,9 @@
 <p2>Hello, my name is <b>Rinat</b>, I'm a student of <b>KpFU</b>, studying big data analytics. I love programming and everything that coonnected with! this</p2>
 <hr />
 
-![Hello World!](https://github.com/RunatK/RunatK/blob/main/helloWorld.gif)
+  <p align="center">
+    <img src="https://github.com/RunatK/RunatK/blob/main/helloWorld.gif"/>
+  </p>
 
 <hr />
 <p3><b>🔭 What am I doing?</b></p3>
