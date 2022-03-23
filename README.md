@@ -18,7 +18,7 @@
 <h4><b>🌱 In the near feature I plan to...</b></h4>
 <br />
 <ul>
-  <li>Deepen your knowledge of probability theory and mathematical statistics</li>
+  <li>Deepen my knowledge of probability theory and mathematical statistics</li>
   <li>Finally learn English to level B2</li>
   <li>Get an internship</li>
   <li>Find a team to participate in hackathons</li>
