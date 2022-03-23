@@ -7,7 +7,7 @@
   </p>
 
 <hr />
-<h4><b>🔭 What am I doing?</b></h4>
+<h4><b>🔭 What I do?</b></h4>
 <br />
 <ul>
   <li>I develop neural networks for big data processing</li>
