@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h4>Hello, my name is <b>Rinat</b>, I'm a student of <b>KpFU</b>, studying big data analytics. I love programming and everything that coonnected with! this</h4>
+<h4>Hello, my name is <b>Rinat</b>, I'm a student of <b>KpFU</b>, studying big data analytics. I love programming and everything that coonnected with this!</h4>
 <hr />
 
   <p align="center">
