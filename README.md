@@ -3,7 +3,7 @@
 <hr />
 
   <p align="center">
-    <img src="https://github.com/RunatK/RunatK/blob/main/ea061437068833.58d2a30b5fdb1.gif.gif"/>
+    <img src="https://github.com/RunatK/RunatK/blob/main/ea061437068833.58d2a30b5fdb1.gif"/>
   </p>
 
 <hr />
