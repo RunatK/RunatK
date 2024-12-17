@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h4>Hello, my name is <b>Rinat</b>, I'm a student of <b>KpFU</b>, studying big data analytics. I love programming and everything that coonnected with this!</h4>
+<h4>Hello, my name is <b>Rinat</b>, I'm a web python programmer. I love programming and everything that coonnected with this!</h4>
 <hr />
 
   <p align="center">
@@ -10,20 +10,28 @@
 <h4><b>🔭 What I do?</b></h4>
 <br />
 <ul>
-  <li>I develop neural networks for big data processing</li>
-  <li>I clean this data to find trends</li>
+  <li>Develop asynchronous web applications</li>
+  <li>Develop API on FastAPI and work with SQLAlchemy</li>
+  <li>Develop Django application whith heavy buisiness logic</li>
+  <li>Wrap applications in docker and deploy them</li>
+  <li>Decompose and compose tasks based on business requirements</li>
   <li>Trying to learn English so as not to get lost in long articles</li>
 </ul>
 <hr />
 <h4><b>🌱 In the near feature I plan to...</b></h4>
 <br />
 <ul>
-  <li>Deepen my knowledge of probability theory and mathematical statistics</li>
+  <li>Delve into the topic of application architecture and microservices</li>
   <li>Finally learn English to level B2</li>
-  <li>Get an internship</li>
+  <li>Finish your studies at KpFU</li>
   <li>Find a team to participate in hackathons</li>
 </ul>
 <hr />
+<h4><b>⚡ My public work</b></h4>
+<ul>
+  <li>[A service for finding nannies](https://servicenanny.ru/)</li>
+  <li>[Service for Recording treatment by quota](https://kvota-oms.ru/)</li>
+</ul>
 <strong>💬 If you want to try to work with me in any competition, then write to the mail indicated on the page.</strong>
 <!--
 **RunatK/RunatK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
