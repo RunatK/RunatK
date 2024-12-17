@@ -29,8 +29,8 @@
 <hr />
 <h4><b>⚡ My public work</b></h4>
 <ul>
-  <li>[A service for finding nannies](https://servicenanny.ru/)</li>
-  <li>[Service for Recording treatment by quota](https://kvota-oms.ru/)</li>
+  <li>A service for finding nannies: https://servicenanny.ru/</li>
+  <li>Service for Recording treatment by quota: https://kvota-oms.ru/</li>
 </ul>
 <strong>💬 If you want to try to work with me in any competition, then write to the mail indicated on the page.</strong>
 <!--
