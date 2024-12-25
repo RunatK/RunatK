@@ -31,6 +31,7 @@
 <ul>
   <li>A service for finding nannies: https://servicenanny.ru/</li>
   <li>Service for recording treatment by quota: https://kvota-oms.ru/</li>
+  <li><a href="https://github.com/RunatK/projectile_flight">ProjectileFlight</a> - library for calculation of projectile flight</li>
 </ul>
 <strong>💬 If you want to try to work with me in any competition, then write to the mail indicated on the page.</strong>
 <!--
